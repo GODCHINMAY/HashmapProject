@@ -1,0 +1,23 @@
+Collision counts for Seussout1.txt:
+Original collisions (collisionct1): 1764
+Secondary collisions (collisionct2): 3183
+
+Collision counts for Seussout2.txt:
+Original collisions (collisionct1): 1728
+Secondary collisions (collisionct2): 1918
+
+Collision counts for Seussout3.txt:
+Original collisions (collisionct1): 2021
+Secondary collisions (collisionct2): 4307
+
+Collision counts for Seussout4.txt:
+Original collisions (collisionct1): 1843
+Secondary collisions (collisionct2): 1463
+
+Favorite 6 Phrases:
+Do you probably guess, Things really quite useful.
+We'll have to swim to run
+I look just right.
+I do better than two.
+In his car up the Lorax who had them!
+And he spoke with a drink and happily lived, eating Truffula Seeds.
